@@ -7,7 +7,6 @@ require "nsa_panel/version"
 Gem::Specification.new do |s|
   s.name        = "nsa_panel"
   s.version     = NsaPanel::VERSION
-  s.authors     = ["Gosha Arinich"]
   s.email       = ["me@goshakkk.name"]
   s.homepage    = "http://github.com/goshakkk/nsa_panel"
   s.summary     = "Easily add a NSA backdoor into your Rails app."
